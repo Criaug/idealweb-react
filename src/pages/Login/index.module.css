@@ -1,0 +1,16 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+  border-radius: 21px;
+  background: linear-gradient(145deg, #c2c8d4, #e6eefd);
+  box-shadow: 7px 7px 18px #838790, -7px -7px 18px #ffffff;
+}

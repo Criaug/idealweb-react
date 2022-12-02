@@ -1,0 +1,9 @@
+.container {
+  background-color: #1d2d44;
+  min-width: 8rem;
+  height: 100vh;
+  color: white;
+  font-weight: 500;
+  box-shadow: rgb(16 16 16) -3px 0px 5px 2px;
+  z-index: 0;
+}
