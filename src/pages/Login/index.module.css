@@ -13,4 +13,23 @@ form {
   border-radius: 21px;
   background: linear-gradient(145deg, #c2c8d4, #e6eefd);
   box-shadow: 7px 7px 18px #838790, -7px -7px 18px #ffffff;
+  gap: 12px;
+}
+.input {
+  height: 40px;
+  padding: 0 1rem;
+  border-radius: 4px;
+  border: none;
+}
+
+.error {
+  font-size: 17px;
+  color: red;
+  font-weight: 500;
+}
+.texto {
+  font-size: 18px;
+}
+button {
+  width: 100%;
 }

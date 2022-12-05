@@ -11,13 +11,17 @@ body {
 }
 
 button {
-  border: none;
+  border: 2px solid teal;
   background-color: teal;
   color: white;
   font-weight: 600;
   cursor: pointer;
-  padding: 12px;
+  padding: 0.8rem 0;
   align-self: center;
-  border-radius: 5px;
+  border-radius: 4px;
   text-align: center;
+}
+button:hover {
+  background-color: #fff;
+  color: teal;
 }
